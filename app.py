@@ -1,0 +1,3 @@
+from findFakeGoldBar import *
+
+findFakeGoldIndex()
